@@ -1,0 +1,6 @@
+# Windows
+Thumbs.db
+*.log
+node_modules/
+.env
+.DS_Store
