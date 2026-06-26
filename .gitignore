@@ -1,6 +1,9 @@
-# Windows
-Thumbs.db
+# AI 分身项目 - 忽略文件
 *.log
-node_modules/
+__pycache__/
+*.pyc
+cloudflared*
 .env
-.DS_Store
+*.db
+.vscode/
+.idea/
